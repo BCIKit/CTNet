@@ -27,7 +27,7 @@ datasets: [BCI Competition IV-2a & IV-2b datasets](https://www.bbci.de/competiti
 
 Create the BCICIV_2a_gdf directory to store the downloaded BCI IV-2a dataset.
 
-Create the BCICIV_2b_gdf directory to store the downloaded BCI IV-2a dataset.
+Create the BCICIV_2b_gdf directory to store the downloaded BCI IV-2b dataset.
 
 labels: [BCI IV-2a](https://www.bbci.de/competition/iv/results/ds2a/true_labels.zip), [BCI IV-2b](https://www.bbci.de/competition/iv/results/ds2b/true_labels.zip)
 
